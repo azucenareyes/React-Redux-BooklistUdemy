@@ -2,7 +2,7 @@
    // selecBook is an action creator and needs to return an action,
    // an object with a typed property
   return {
-      type: 'selectBook',
+      type: 'BOOK_SELECTED',
       payload: book
   }
 }

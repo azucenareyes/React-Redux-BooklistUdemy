@@ -1,9 +1,9 @@
 export default function(){
   return [
-    {title: '0'},
-    {title: '1'},
-    {title: '2' },
-    {title: '3' },
-    {title: '4'}
+    {title: 'My First Cookbook', pages: 20},
+    {title: 'Spanish 101', pages: 200},
+    {title: 'Beloved', pages: 55 },
+    {title: 'The Cat in the Hat', pages: 75 },
+    {title: 'Cats and Dogs', pages: 40}
   ]
 }
